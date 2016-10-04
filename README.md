@@ -1,4 +1,6 @@
-This repo contains scripts needed to build rpms for various versions of cloud-init
+[![Build Status](https://snap-ci.com/snap-ci/cloud-init-build/branch/master/build_image)](https://snap-ci.com/snap-ci/cloud-init-build/branch/master)
+
+This repo contains scripts needed to build rpms for various versions of cloud-init. To report an issue, [please contact the Snap.ci support team.](https://snap-ci.com/contact-us)
 
 # CentOS/RHEL
 
